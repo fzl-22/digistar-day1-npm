@@ -1,3 +1,3 @@
-const printPretty  = require("./lib");
+const printPretty = require("./lib");
 
 module.exports = printPretty;
