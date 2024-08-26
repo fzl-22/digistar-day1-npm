@@ -1,0 +1,21 @@
+{
+  "name": "digistar-hacker-faisal",
+  "version": "1.0.3",
+  "description": "First hands-on Digistar Class 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "Ahmad Mu'min Faisal",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "express": "^4.19.2",
+    "mocha": "^10.7.3"
+  },
+  "keywords": [
+    "log",
+    "pretty"
+  ]
+}
